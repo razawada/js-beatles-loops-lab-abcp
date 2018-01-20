@@ -1,3 +1,5 @@
+'use strict';
+
 function theBeatlesPlay(musicians, instruments) {
   var phrases = [];
   for (var i = 0; i < musicians.length; i++) {
