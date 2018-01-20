@@ -24,3 +24,4 @@ function johnLennonFacts(array) {
 }
 
 console.log (johnLennonFacts(["foo", "bar"]));
+
