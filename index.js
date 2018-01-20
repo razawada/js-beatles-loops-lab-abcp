@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
   return phrases;
 };
 
-function johnLennonFact(array) {
+function johnLennonFacts(array) {
   var excitedFacts = [];
   var i = 0
   while (i < array.length) {
@@ -23,4 +23,4 @@ function johnLennonFact(array) {
   return excitedFacts;
 }
 
-console.log (johnLennonFact(["foo", "bar"]));
+console.log (johnLennonFacts(["foo", "bar"]));
